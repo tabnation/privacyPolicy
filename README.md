@@ -1,9 +1,9 @@
 # privacyPolicy
 
-📄 Privacy Policy for TB PW Manager 
+📄 Privacy Policy for TB PW Manager and paranow
 Effective Date: [June 8, 2025]
 
-TB PW Manager ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our Android application.
+TB PW Manager/paranow ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our Android application.
 
 1. Information We Collect
 We do not collect or store any personal data on our servers. However, our app may request access to the following:
